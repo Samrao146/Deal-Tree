@@ -21,7 +21,7 @@ echo "<br>";
 		}
 	}
 	else 
-	{ echo "khali";
+	{ echo "empty";
 echo "<br>";
 		$post_id="";
 	}
